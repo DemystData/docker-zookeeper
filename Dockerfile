@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER Chris Baron <cbaron@demystdata.com>
+MAINTAINER Chris Baron <cmbaron@gmail.com>
     
 RUN apt-get update
 RUN apt-get dist-upgrade -y 
