@@ -1,3 +1,3 @@
-docker build -t demystdata/zookeeper .
-docker push demystdata/zookeeper
+docker build -t cmbaron/zookeeper .
+docker push cmbaron/zookeeper
 
